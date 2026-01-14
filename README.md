@@ -4,10 +4,10 @@ Roboshop Project
 Implementing roboshop project with multiple services.
 
 The included services
-mysql
-mongodb
-user
-catalogue
+# mysql
+# mongodb
+# user
+# catalogue
 frontend
 redis
 cart
